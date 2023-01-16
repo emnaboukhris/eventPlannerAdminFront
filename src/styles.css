@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.card {
+
+    background-color: rgba(5, 5, 5, 0.279);
+    color: #000000
+
+}
+link.active {
+    color: #495057;
+    /* background-color: #fff; */
+}
